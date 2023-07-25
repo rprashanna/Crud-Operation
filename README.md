@@ -2,4 +2,5 @@
 
 
 Database: crudoperation
-Table name : crud
+
+Table name: crud
